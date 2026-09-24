@@ -1,23 +1,23 @@
-<h1 align="center">Hi, I'm ojluvr 👋</h1>
+<h1 align="center">Hi, I'm Ishita</h1>
 
 <p align="center"><i>I build things with data, cloud &amp; code.</i></p>
 
 <br>
 
-## 👩‍💻 About Me
+## About Me
 
-I'm **Ishita**, a software engineer who likes building reliable, event-driven backend systems and the observability that keeps them healthy.
+I'm a software engineer who likes building reliable, event-driven backend systems and the observability that keeps them healthy.
 
-- 💼 Associate Software Engineer at **ABB**, working on a cloud-native alerting platform that handles **500+ alerts/minute**
-- 🔭 Currently focused on **distributed systems, SLA monitoring, and production reliability** on Kubernetes
-- ☁️ Previously worked on **AWS ETL pipelines** (Glue, S3, PySpark) as a Big Data Analyst Intern at Noventiq
-- 🎓 B.Tech in Computer Science (AI Specialization), **Manipal Institute of Technology**
-- 🤖 Built a 4-DOF robotic arm for tamarind harvesting with IEEE EPICS
-- 💬 Ask me about: Python backends, Redis, Kubernetes, Grafana/Prometheus, and data pipelines
+- Associate Software Engineer at **ABB**, working on a cloud-native alerting platform that handles **500+ alerts/minute**
+- Currently focused on **distributed systems, SLA monitoring, and production reliability** on Kubernetes
+- Previously worked on **AWS ETL pipelines** (Glue, S3, PySpark) as a Big Data Analyst Intern at Noventiq
+- B.Tech in Computer Science (AI Specialization), **Manipal Institute of Technology**
+- Built a 4-DOF robotic arm for tamarind harvesting with IEEE EPICS
+- Ask me about: Python backends, Redis, Kubernetes, Grafana/Prometheus, and data pipelines
 
 <br>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -69,7 +69,7 @@ I'm **Ishita**, a software engineer who likes building reliable, event-driven ba
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does |
 | --- | --- |
@@ -78,7 +78,7 @@ I'm **Ishita**, a software engineer who likes building reliable, event-driven ba
 
 <br>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojluvr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
@@ -87,7 +87,7 @@ I'm **Ishita**, a software engineer who likes building reliable, event-driven ba
 
 <br>
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/ishita-singh-1872371b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
