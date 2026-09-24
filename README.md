@@ -101,24 +101,6 @@ class Ishita:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3D8B,100:00F5FF&height=3&section=header" width="80%" alt="divider">
 </div>
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ishtries&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishtries&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ishtries&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishtries&theme=react-dark&hide_border=true&bg_color=0d1117&color=FF3D8B&line=00F5FF&point=ffffff" alt="Contribution Graph" width="95%">
-</p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3D8B,100:00F5FF&height=3&section=header" width="80%" alt="divider">
-</div>
 
 <h2 align="center">Let's Connect</h2>
 
