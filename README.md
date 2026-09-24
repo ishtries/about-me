@@ -73,7 +73,7 @@ I'm a software engineer who likes building reliable, event-driven backend system
 
 | Project | What it does |
 | --- | --- |
-| [**Smart Video Summarizer**](https://github.com/ojluvr/Smart-Video-Summarizer) | End-to-end NLP pipeline: OpenAI Whisper for transcription and a fine-tuned DistilBART model for abstractive, topic-segmented summaries of variable-length videos |
+| [**Smart Video Summarizer**](https://github.com/ishtries/Smart-Video-Summarizer) | End-to-end NLP pipeline: OpenAI Whisper for transcription and a fine-tuned DistilBART model for abstractive, topic-segmented summaries of variable-length videos |
 | **4-DOF Robotic Arm** | Robotic arm for selective tamarind harvesting (IEEE EPICS), covering servo placement, joint kinematics, and grasping mechanisms from prototype to field deployment |
 
 <br>
