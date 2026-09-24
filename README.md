@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3D8B,100:00F5FF&height=220&section=header&text=Hi%2C%20I%27m%20Ishita&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Ishita" width="100%">
 
 <a href="https://github.com/ishtries">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF3D8B&center=true&vCenter=true&width=640&height=45&lines=I+build+things+with+data%2C+cloud+%26+code;Backend+engineer+%7C+Distributed+systems;Observability+%7C+Kubernetes+%7C+Redis;Turning+noisy+alerts+into+signal" alt="Typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=FF3D8B&center=true&vCenter=true&width=560&height=45&lines=%24+whoami%3A+Ishita%2C+backend+engineer;%24+.%2Fbuild+--data+--cloud+--code;%24+redis-cli+%3A+hunting+race+conditions;%24+grep+-v+noise+alerts.log;%24+python3+robot_arm.py+%23+yes%2C+really" alt="Typing animation">
 </a>
 
 <br><br>
