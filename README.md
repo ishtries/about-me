@@ -56,9 +56,3 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojluvr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojluvr&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</p>
