@@ -1,10 +1,23 @@
-<h1 align="center">Hi, I'm Ishita</h1>
+<h1 align="center">Hi, I'm ojluvr 👋</h1>
 
 <p align="center"><i>I build things with data, cloud &amp; code.</i></p>
 
 <br>
 
-##  Tech Stack
+## 👩‍💻 About Me
+
+I'm **Ishita**, a software engineer who likes building reliable, event-driven backend systems and the observability that keeps them healthy.
+
+- 💼 Associate Software Engineer at **ABB**, working on a cloud-native alerting platform that handles **500+ alerts/minute**
+- 🔭 Currently focused on **distributed systems, SLA monitoring, and production reliability** on Kubernetes
+- ☁️ Previously worked on **AWS ETL pipelines** (Glue, S3, PySpark) as a Big Data Analyst Intern at Noventiq
+- 🎓 B.Tech in Computer Science (AI Specialization), **Manipal Institute of Technology**
+- 🤖 Built a 4-DOF robotic arm for tamarind harvesting with IEEE EPICS
+- 💬 Ask me about: Python backends, Redis, Kubernetes, Grafana/Prometheus, and data pipelines
+
+<br>
+
+## 🛠️ Tech Stack
 
 <h4 align="center">Languages</h4>
 <p align="center">
@@ -56,3 +69,27 @@
 
 <br>
 
+## 🚀 Featured Projects
+
+| Project | What it does |
+| --- | --- |
+| [**Smart Video Summarizer**](https://github.com/ojluvr/Smart-Video-Summarizer) | End-to-end NLP pipeline: OpenAI Whisper for transcription and a fine-tuned DistilBART model for abstractive, topic-segmented summaries of variable-length videos |
+| **4-DOF Robotic Arm** | Robotic arm for selective tamarind harvesting (IEEE EPICS), covering servo placement, joint kinematics, and grasping mechanisms from prototype to field deployment |
+
+<br>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ojluvr&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojluvr&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
+</p>
+
+<br>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/ishita-singh-1872371b4/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ishitasingh5602@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
